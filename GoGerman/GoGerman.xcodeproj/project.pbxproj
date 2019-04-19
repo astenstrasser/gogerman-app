@@ -13,6 +13,7 @@
 		8DA5D7522268FF7700F8B1F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8DA5D7512268FF7700F8B1F2 /* Assets.xcassets */; };
 		8DA5D7552268FF7700F8B1F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8DA5D7532268FF7700F8B1F2 /* LaunchScreen.storyboard */; };
 		8DA5D7602268FF7700F8B1F2 /* GoGermanTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DA5D75F2268FF7700F8B1F2 /* GoGermanTests.swift */; };
+		8DAF6EA0226A0F40007B06CE /* VerbenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DAF6E9F226A0F40007B06CE /* VerbenViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		8DA5D75B2268FF7700F8B1F2 /* GoGermanTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GoGermanTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DA5D75F2268FF7700F8B1F2 /* GoGermanTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoGermanTests.swift; sourceTree = "<group>"; };
 		8DA5D7612268FF7700F8B1F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8DAF6E9F226A0F40007B06CE /* VerbenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerbenViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				8DA5D74A2268FF7600F8B1F2 /* AppDelegate.swift */,
 				8DA5D74C2268FF7600F8B1F2 /* ViewController.swift */,
 				8DA5D74E2268FF7600F8B1F2 /* Main.storyboard */,
+				8DAF6E9F226A0F40007B06CE /* VerbenViewController.swift */,
 				8DA5D7512268FF7700F8B1F2 /* Assets.xcassets */,
 				8DA5D7532268FF7700F8B1F2 /* LaunchScreen.storyboard */,
 				8DA5D7562268FF7700F8B1F2 /* Info.plist */,
@@ -198,6 +201,7 @@
 			files = (
 				8DA5D74D2268FF7600F8B1F2 /* ViewController.swift in Sources */,
 				8DA5D74B2268FF7600F8B1F2 /* AppDelegate.swift in Sources */,
+				8DAF6EA0226A0F40007B06CE /* VerbenViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
